@@ -30,7 +30,7 @@ Proje, temiz kod (Clean Code) prensiplerine uygun olarak modüler bir yapıda ge
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f7adaef3-5dc2-402a-8007-6fe3a3da4ac2" width="180" alt="Ana Sayfa" style="margin: 5px;" />
 
-  <img src="https://github.com/user-attachments/assets/67492bf5-4d8d-4853-9ebb-bb762515342e" width="180" alt="Detay Sayfasi"  style="margin: 5px;" />
+  <img src="https://github.com/user-attachments/assets/85d9b5ed-bb08-4211-a111-32f9a13144ed" width="180" alt="Detay Ekrani" style="margin: 5px;" />
 
   <img src="https://github.com/user-attachments/assets/b27562ec-ded2-4b43-8827-35a9d1dcb472" width="180" alt="İşlem Geçmişi" style="margin: 5px;" />
 
